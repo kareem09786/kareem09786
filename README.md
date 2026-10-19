@@ -9,6 +9,8 @@ Python · SQL · Java · JavaScript · OpenCV · NumPy · scikit-learn · Tensor
 
 ## Projects
 - [Grocery store management app](https://github.com/kareem09786/Grocery-Application-using-Full-Stack): Flask REST API, MySQL and a browser dashboard for products and orders
+- [Concrete strength prediction](https://github.com/kareem09786/Concrete-Strength-Prediction-using-neural-networks): Keras neural network vs linear and random forest baselines, evaluated on a held-out test set
+- [Face mask recognition pipeline](https://github.com/kareem09786/Facemask-Recognition): CNN training with proper evaluation, plus an OpenCV webcam detector
 - [Face mask detection with a CNN](https://github.com/kareem09786/Mask-recognition-using-Convolutional-Neural-Network): TensorFlow/Keras image classifier
 - [Fashion-MNIST classifier](https://github.com/kareem09786/Fashion-Product-Classification-using-FMNIST-dataset): neural network for ten clothing categories
 
